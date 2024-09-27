@@ -1,0 +1,22 @@
+export default {
+  NAME: 'Please enter name',
+  EMAIL: 'Please enter email',
+  MOBILE: 'Please enter mobile',
+  REGISTERATON_NUMBER: 'Please enter registeration XX 00 XX 0000',
+  PASSENGER: 'Please enter passenger name',
+  WELCOME: 'Welcome to',
+  WELCOME_YOU: 'Welcomes You',
+  ROVE: 'Rove',
+  ENTER: 'Enter',
+  LOGIN_WITH_PHONE: 'Login With Phone Number',
+  LOGIN_WITH_GMAIL: 'Login With Google',
+  VERIFY_OTP: 'Verify Otp',
+  CONTINUE: 'Continue',
+  OTP: 'OTP',
+  YOUR_CREDENTIALS: 'Your Credentials',
+  OR: 'Or',
+  WE_MAKE:
+    'We make your daily travel easy with Rove where you can track your daily ride, on your finger tips.',
+  DONT_HAVE: 'Dont have an account',
+  SIGN_UP: 'Sign Up ?',
+};

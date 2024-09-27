@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306081040393",
+    "project_id": "aculansetesttask-b0754",
+    "storage_bucket": "aculansetesttask-b0754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306081040393:android:b25dc314eb5f33b79c10d8",
+        "android_client_info": {
+          "package_name": "com.aculansetesttask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbh2HUlLP74W1-4y3268fWUpVuq55Q7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
